@@ -1,0 +1,30 @@
+*.meta
+*.fbx
+*.mp3
+*.ttf
+*.png
+*.jpg
+*.asset
+*.prefab
+*.mat
+*.psd
+*.terrain*
+*.controller
+*.pdf
+*.txt
+/Scenes
+/Resources
+/Plugins
+/NatureStarterKit2
+/MixamoCharacters
+/Mega Fantasy Props Pack
+/Medieval Props Asset Pack
+/Medieval props
+/Medieval bridge
+/Materials
+/fantasy horde_vilagers
+/BasicBandit
+/_*
+*.wav
+*.shader
+*.cginc
